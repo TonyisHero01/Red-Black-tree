@@ -35,35 +35,35 @@ Reprezentace vstupních a výstupných dat ve funkce Main:
 
 Vstup:
 
-![](Aspose.Words.4cb4190d-c794-4b6c-8c4c-690499a32bda.001.png) 
+![](/vstup1.png) 
 
 Výstup:
 
-![](Aspose.Words.4cb4190d-c794-4b6c-8c4c-690499a32bda.002.png)
+![](/vystup1.png)
 
 Vstup:
 
-![](Aspose.Words.4cb4190d-c794-4b6c-8c4c-690499a32bda.003.png)
+![](/vstup2.png)
 
 Výstup:
 
-![](Aspose.Words.4cb4190d-c794-4b6c-8c4c-690499a32bda.004.png)
+![](/vystup2.png)
 
 Vstup:
 
-![](Aspose.Words.4cb4190d-c794-4b6c-8c4c-690499a32bda.005.png) 
+![](/vstup3.png) 
 
 Výstup:
 
-![](Aspose.Words.4cb4190d-c794-4b6c-8c4c-690499a32bda.006.png)
+![](/vystup3.png)
 
 Vstup:
 
-![](Aspose.Words.4cb4190d-c794-4b6c-8c4c-690499a32bda.007.png)
+![](/vstup4.png)
 
 Výstup:
 
-![](Aspose.Words.4cb4190d-c794-4b6c-8c4c-690499a32bda.008.png)
+![](/vystup4.png)
 
 Zdroje:
 
